@@ -14,3 +14,4 @@
 ## Используемые библиотеки
 
 `Python`, `pandas`, `matplotlib`, `sklearn`, `catboost`, `SQLAlchemy`, `statsmodels`
+Cтатус проекта Завершен

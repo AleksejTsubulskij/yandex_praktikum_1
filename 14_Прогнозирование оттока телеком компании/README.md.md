@@ -46,3 +46,4 @@
 ## Используемые библиотеки
 
 `pandas`, `numpy`, `matplotlib`, `sklearn`, `Pytorch`, `SQLAlchemy`, `seaborn`, `skorch`, `catboost`, `phik`
+Cтатус проекта Завершен

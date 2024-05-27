@@ -26,3 +26,4 @@
 ## Используемые библиотеки
 
 `Python`, `pandas`, `pymystem3`, `collections`
+Cтатус проекта Завершен

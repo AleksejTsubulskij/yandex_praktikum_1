@@ -14,3 +14,4 @@
 ## Используемые библиотеки
 
 `Python`, `pandas`, `matplotlib`, `sklearn`, `nltk`, `wordcloud`, `statsmodels`, `catboost`, `lightgbm`, `tf-idf`
+Cтатус проекта Завершен

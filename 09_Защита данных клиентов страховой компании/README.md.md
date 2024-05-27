@@ -17,3 +17,4 @@
 ## Используемые библиотеки
 
 `Python`, `pandas`, `numpy`, `matplotlib`, `sklearn`
+Cтатус проекта Завершен
